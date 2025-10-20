@@ -1,0 +1,28 @@
+# WordPress
+wp-config.php
+.htaccess
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Claude settings (local)
+.claude/settings.local.json
+
+# Reserved Windows filename
+nul

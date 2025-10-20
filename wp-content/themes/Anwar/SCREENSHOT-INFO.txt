@@ -1,0 +1,40 @@
+SCREENSHOT REQUIREMENTS FOR ANWAR THEME
+==========================================
+
+To complete the theme installation, you need to add a screenshot.png file to the theme root directory.
+
+SPECIFICATIONS:
+- Filename: screenshot.png
+- Dimensions: 1200 x 900 pixels (4:3 ratio)
+- Format: PNG
+- Location: wp-content/themes/Anwar/screenshot.png
+
+WHAT TO INCLUDE:
+Capture the homepage of your theme showing:
+- Hero section with your branding
+- Navigation menu
+- Key sections (services preview, portfolio, etc.)
+- Footer
+
+HOW TO CREATE:
+1. Install and activate the theme
+2. Configure the homepage with sample content
+3. Take a screenshot at 1200x900 pixels
+4. Save as screenshot.png in the theme root folder
+
+ALTERNATIVE:
+You can use a design mockup or theme preview image that showcases the theme's design and features.
+
+TOOLS TO CREATE SCREENSHOT:
+- Browser DevTools (set viewport to 1200x900)
+- Screenshot tools (Lightshot, Snagit, etc.)
+- Image editors (Photoshop, GIMP, Figma)
+
+NOTE:
+The theme will work without a screenshot, but adding one makes it look more professional in the WordPress theme selector.
+
+For now, you can use a placeholder or create a simple branded image with:
+- Theme name: "Anwar"
+- Tagline: "Professional WordPress Portfolio Theme"
+- Your logo or brand colors
+- Simple graphic elements
